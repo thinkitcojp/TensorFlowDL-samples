@@ -3,4 +3,5 @@
 __pycache__/
 .python-version
 *.gz
+events.out*
 !.gitkeep
