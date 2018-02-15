@@ -13,7 +13,7 @@ TensorFlowではじめるDeepLearning実践入門　サンプルコード
 | nn | 全結合ニューラルネットワークによる手書き数字認識のソースコード類。 |
 | board | TensorBoardの解説用ソースコード類。 |
 | conv | 畳み込みニューラルネットワークによる手書き数字認識のソースコード類。 |
-| model | モデル保存の解説用ソースコード類。|
+| save_model | モデル保存の解説用ソースコード類。|
 | s_mnist | RNNによる手書き数字認識のソースコード類。 |
 | word2vec | word2vecの解説用ソースコード類。 |
 | tfrecord | TFRecordの読み書きの解説用ソースコード類。 |
