@@ -26,4 +26,5 @@ TensorFlowではじめるDeepLearning実践入門　サンプルコード
 このプログラムは[MITライセンス](https://opensource.org/licenses/mit-license.php)です。
 
 # 正誤表
-準備中
+
+- 124ページ中段数式　（誤）z * -log(x) + (1-z) * -log(1-x') -> (正) z * -log(x) + (1-z) * -log(1-x)
