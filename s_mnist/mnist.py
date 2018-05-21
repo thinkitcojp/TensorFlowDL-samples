@@ -60,7 +60,7 @@ with tf.Session() as sess:
         train_images, train_labels = mnist.train.next_batch(50)
         sess.run(train_step, feed_dict={x:train_images ,y:train_labels})
 
-        #10階ごとに精度を検証
+        #100ステップごとに精度を検証
         if step % 100 == 0:
             acc_val = sess.run( accuracy, feed_dict={x:test_images, y:test_labels})
             print('Step %d: accuracy = %.2f' % (step, acc_val))
