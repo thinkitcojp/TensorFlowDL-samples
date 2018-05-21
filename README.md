@@ -29,3 +29,9 @@ TensorFlowではじめるDeepLearning実践入門　サンプルコード
 
 - 124ページ中段数式　（誤）z * -log(x) + (1-z) * -log(1-x') -> (正) z * -log(x) + (1-z) * -log(1-x)
 - 78ページリスト3.14コメント　（誤）10階ごとに精度を検証 -> (正) 100ステップごとに精度を検証
+
+# お問い合わせ
+
+書籍の内容に関するお問い合わせは出版社の[お問い合わせフォーム](https://book.impress.co.jp/books_inquiry/form.html?ic=1117101113)からお願いします、なおお答えできるのは本書に記載の内容に関することに限ります。
+[https://book.impress.co.jp/books/1117101113](https://book.impress.co.jp/books/1117101113)
+
